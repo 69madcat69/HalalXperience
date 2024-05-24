@@ -18,10 +18,10 @@ Muslim consumers often face challenges in finding halal restaurants and products
 - Certification Information: Access detailed halal certification information from reputable agencies.
 
 ## User Interface
-Admin Interface
+### Admin Interface
 ![Screenshot_20240524_175617](https://github.com/69madcat69/HalalXperience/assets/93109732/a57b9df3-8a2b-4e88-a0ca-f9947b0eb6f0)
 
-Company List
+### Company List
 ![Screenshot_20240524_175617](https://github.com/69madcat69/HalalXperience/assets/93109732/67c1ca41-9650-4964-a1d4-78882a672276)
 
 Add Company
