@@ -24,50 +24,50 @@ Muslim consumers often face challenges in finding halal restaurants and products
 ### Company List
 ![Screenshot_20240524_175617](https://github.com/69madcat69/HalalXperience/assets/93109732/67c1ca41-9650-4964-a1d4-78882a672276)
 
-Add Company
+### Add Company
 ![Screenshot_20240524_175728](https://github.com/69madcat69/HalalXperience/assets/93109732/72f0fa7a-8ec8-430a-b5ea-b5a404445582)
 
-Product List
+### Product List
 ![Screenshot_20240524_175652](https://github.com/69madcat69/HalalXperience/assets/93109732/1f74c438-32f0-44a1-859c-2b6a562ea301)
 
-Upadte Product
+### Update Product
 ![Screenshot_20240524_175655](https://github.com/69madcat69/HalalXperience/assets/93109732/0ec75f20-62c0-4f5b-bb4e-1a23788e618b)
 
-Resturants List - Admin
+### Resturants List - Admin
 ![Screenshot_20240524_175708](https://github.com/69madcat69/HalalXperience/assets/93109732/7bebe35c-b39f-4488-929c-c20ccd686223)
 
-Update Resturants
+### Update Resturants
 ![Screenshot_20240524_175720](https://github.com/69madcat69/HalalXperience/assets/93109732/9b4bc2fb-544b-4578-8721-5825765150e5)
 
-Admin Registaration
+### Admin Registaration
 ![Screenshot_20240524_175735](https://github.com/69madcat69/HalalXperience/assets/93109732/b6ee07cc-0580-4d0a-877a-20bae5f2a757)
 
-System Report
+### System Report
 ![Screenshot_20240524_175735](https://github.com/69madcat69/HalalXperience/assets/93109732/884e20cc-9867-4b64-bee3-44408afa7985)
 
-User Interface
+### User Interface
 ![Screenshot_20240524_180200](https://github.com/69madcat69/HalalXperience/assets/93109732/09ca6a9a-379a-456c-a7c6-d3279a32c21a)
 
-Prayers Timings
+### Prayers Timings
 ![Screenshot_20240524_180214](https://github.com/69madcat69/HalalXperience/assets/93109732/74a7fea6-2c0f-4e21-be73-8e66eb3aba75)
 
-Resturants List
+### Resturants List
 ![Screenshot_20240524_180319](https://github.com/69madcat69/HalalXperience/assets/93109732/26709a92-3539-4579-aea2-c9622590d48b)
 
-Resturants Details
+### Resturants Details
 ![Screenshot_20240524_180341](https://github.com/69madcat69/HalalXperience/assets/93109732/d8bd7514-7a99-49f9-8de5-1897e235edf7)
 
-Cusinies
+### Cusinies
 ![Screenshot_20240524_180404](https://github.com/69madcat69/HalalXperience/assets/93109732/58959d21-b0f9-4195-a1e3-f5835d2476a5)
 
-Product Interface
+### Product Interface
 ![Screenshot_20240524_180426](https://github.com/69madcat69/HalalXperience/assets/93109732/1202dcfb-dcb3-48d0-9aa3-49c062947193)
 
-Product Information - After QR Scanned
+### Product Information - After QR Scanned
 ![Screenshot_20240524_181336](https://github.com/69madcat69/HalalXperience/assets/93109732/05866e49-c46a-4ca5-8712-af0961dd244b)
 
-User Registration
+### User Registration
 ![Screenshot_20240524_181527](https://github.com/69madcat69/HalalXperience/assets/93109732/739a7096-8660-4ae0-8d19-46155a7453c3)
 
-User Login
+### User Login
 ![Screenshot_20240524_181531](https://github.com/69madcat69/HalalXperience/assets/93109732/d284f160-e86c-4f3c-aca2-23c8e1030354)
